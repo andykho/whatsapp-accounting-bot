@@ -3,8 +3,8 @@
 A WhatsApp-based accounting system built with Node.js and Baileys.
 
 Important :
-on index.js, on CONFIG.
-Must fill Group ID number and the desired whatsapp number as admin.
+- Check index.js, on CONFIG.
+- Must fill Group ID number and the desired whatsapp number as admin.
 
 ## Features
 - Add transactions
