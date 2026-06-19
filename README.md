@@ -14,12 +14,12 @@ Important :
 - Undo last transaction
 
 ## Commands
-.done 15x1000
-.done 10000
-.depo 5000
-.total
-.history
-.undo
+- .done 15x1000
+- .done 10000
+- .depo 5000
+- .total
+- .history
+- .undo
 
 ## Tech Stack
 - Node.js
@@ -27,7 +27,7 @@ Important :
 - JSON Storage
 
 ## Installation
-npm install
+- npm install
 
-node index.js
-Scan QR
+- node index.js
+- Scan QR
